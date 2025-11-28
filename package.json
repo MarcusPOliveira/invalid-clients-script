@@ -1,0 +1,21 @@
+{
+  "name": "invalid-clients-script",
+  "version": "1.0.0",
+  "description": "Script para validar CPF/CNPJ de clientes em planilha Excel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cpf",
+    "cnpj",
+    "validacao",
+    "excel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "0.18.5"
+  }
+}
